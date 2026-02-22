@@ -1,0 +1,47 @@
+body{
+    color: white;
+    background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDh3Nm15bzZsemtxeGpyYnpqMTVnN3JyaWF6bzAxMmtrdW9jbTRxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.loginTitle{
+    font-size: 3rem;
+    color: rgb(247, 85, 153);
+    margin-top: 15rem;
+}
+
+.inputBox{
+    background-color: rgb(245, 183, 204);
+    height: 4vh;
+    border: none;
+    margin-top: -10rem;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+}
+::placeholder{
+        color: rgb(240, 17, 129);
+        text-align: center;
+    }
+.loginBtn{
+    height: 2.7rem;
+    width: 4rem;
+    background-color: rgba(249, 29, 135, 0.76);
+    border-radius: 10px;
+    color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 2.8rem;
+
+}

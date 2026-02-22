@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1hamR4Zm02czRpZ3VpYXA1ZThlYm9qeXE1ZWFvanJlbDdoaW0xdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N03knr1YHngHu/giphy.gif");
+}
+.logTitle{
+text-align: center;
+color: rgb(242, 90, 116);
+margin-top: 15rem;
+}
+.para{
+    color: rgb(250, 85, 167);
+}

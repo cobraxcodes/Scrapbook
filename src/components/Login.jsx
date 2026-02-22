@@ -7,7 +7,7 @@ function Login() {
   const navigate = useNavigate(); 
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (username.trim() === "Admin") {
+    if (username.trim() === "Fatema") {
       navigate("/home");
     } else {
       alert("Boo 👎🏼👎🏼 You Cannot Enter!");
